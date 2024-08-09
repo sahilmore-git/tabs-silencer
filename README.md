@@ -53,6 +53,15 @@ If you like what you see, please consider giving this repository a star! 🌟
 
 [![Star this repository](https://img.shields.io/github/stars/sahilmore-git/tabs-silencer?style=social)](https://github.com/sahilmore-git/tabs-silencer)
 
+## Screenshots:
+### Mute all tabs:
+![Mute all tabs](https://github.com/user-attachments/assets/8fc46287-c392-4027-9d12-2e3a879660ce)
+### Unmute all tabs:
+![Unmute all tabs](https://github.com/user-attachments/assets/6165ccd9-d286-4492-a0d8-c779a74655ff)
+### Mute/Unmute current tab:
+![Mute/Unmute current tab](https://github.com/user-attachments/assets/354218d7-29c5-4a3c-a744-a018f3cb5f0a)
+
+
 ## Development
 
 ### Structure
