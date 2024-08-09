@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Tabs Silencer</title>
+  <style>
+    body {
+        width: 300px;
+        font-family: Arial, sans-serif;
+    }
+    .all-btn{
+        width: 100%;
+        padding: 10px;
+        padding-bottom: 20px;
+        font-size: 16px;
+        cursor: pointer;
+        margin: 5px 0;
+        color: #000;
+        cursor: pointer;
+        border: 3px solid;
+        padding: 0.25em 0.5em;
+        box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+        position: relative;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    }
+    .title{
+        width: 100%;
+        padding: 10px;
+        font-size: 24px;
+        color: #000;
+        display: flex;
+        font-weight: bolder;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+    }
+    .all-btn:active{
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+    }
+  </style>
+</head>
+<body>
+    <div class="title"><img src="icons/icon128.png" height="40" width="40" /> Tabs Silencer</div>
+    <button class="all-btn" id="toggleButton">Mute All Tabs</button>
+    <button class="all-btn" id="toggleCurrentButton">Mute/Unmute Current Tab</button>
+    <script src="popup.js"></script>
+</body>
+</html>
