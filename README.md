@@ -47,6 +47,12 @@ This README explains how to set up and use the extension in Developer Mode:
    - Use the "Mute All Tabs" button to mute or unmute all open tabs.
    - Use the "Mute/Unmute Current Tab" button to toggle the mute state for the currently active tab.
 
+## ⭐ Star This Repository
+
+If you like what you see, please consider giving this repository a star! 🌟
+
+[![Star this repository](https://img.shields.io/github/stars/sahilmore-git/tabs-silencer?style=social)](https://github.com/sahilmore-git/tabs-silencer)
+
 ## Development
 
 ### Structure
